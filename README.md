@@ -1,4 +1,4 @@
-# AmazonFineFood
-# Note this was one of my first projects
+# AmazonFineFood Supervised Learning
+# Using a logisitc Regression for text analysis
 # Download the data from this link 
 https://www.kaggle.com/snap/amazon-fine-food-reviews#Reviews.csv
